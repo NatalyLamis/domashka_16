@@ -227,7 +227,7 @@
     color: #EB5757;
 }
 .form-shipping__input{
-    flex: 0 0 74.42%;
+    flex: 1 0 74.42%;
     outline: 1px solid #C4C4C4;
     padding: 12px 16px;
 }
@@ -286,7 +286,7 @@
     font-size: 16px;
     line-height: 1.25;
     color: #3F3F3F;
-    flex: 0 0 74.42%;
+    flex: 1 0 74.42%;
     outline: 1px solid #C4C4C4;
     padding: 12px 16px;
     width: 100%;
